@@ -62,6 +62,15 @@ Use the github website to make a pull request, to ask your friend to merge your 
 
 Use the github website GUI to review the changes, make comments, and ultimately merge the changes suggested by your friends.
 
+### Step 11. Pull the changes that your friends made into your local repo
+
+```bash
+cd <repo>
+git pull
+```
+
+(or use the vscode GUI to pull)
+
 
 
 
