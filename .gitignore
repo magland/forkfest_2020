@@ -1,0 +1,6 @@
+# .gitignore files are useful
+# you specify which files you do not
+# want to include in the repo
+
+data
+test*
